@@ -1,0 +1,47 @@
+## Data Cleaning and Dashboard Steps
+
+### **1. Data Cleaning Process**  
+Key steps taken to clean and prepare the dataset for analysis:  
+
+- **Handling Missing Values**  
+  - Identified and imputed missing values using logical assumptions or statistical measures like averages/medians.  
+
+- **Standardizing Column Headers**  
+  - Renamed columns for clarity and consistency (e.g., replaced underscores with spaces).  
+
+- **Filtering Irrelevant Data**  
+  - Removed duplicate or irrelevant rows to focus on meaningful insights.  
+  - Retained only relevant columns, such as depression levels, age, gender, university, and stress-relieving activities.  
+
+- **Categorizing Depression Levels**  
+  - Classified depression levels into *High*, *Moderate*, and *Low* based on predefined thresholds.  
+
+- **Formatting Data**  
+  - Converted numerical values into percentages where applicable (e.g., gender-specific depression levels).  
+  - Standardized date formats to ensure uniformity.  
+
+---
+
+### **2. Dashboard Creation Steps**  
+The following steps were followed to create the dashboard in Microsoft Excel:  
+
+- **Importing the Dataset**  
+  - Loaded the cleaned data into Excel.  
+
+- **Using PivotTables**  
+  - Analyzed key metrics using PivotTables, including:  
+    - Depression levels by gender, degree, and university.  
+    - Impact of sleep hours, sports, and financial concerns on depression.  
+
+- **Creating Charts**  
+  - Designed various charts to visualize insights:  
+    - **Pie charts**: Depression levels by university and degree type.  
+    - **Bar charts**: Impact of stress-relieving activities, sleep hours, and sports.  
+    - **Horizontal bar charts**: Depression by age and gender.  
+
+- **Designing the Layout**  
+  - Structured charts and metrics into a cohesive, professional dashboard layout.  
+  - Used clear titles, legends, and data labels for better readability.  
+
+- **Final Formatting**  
+  - Applied consistent colors, fonts, and design elements to enhance visual appeal.  
