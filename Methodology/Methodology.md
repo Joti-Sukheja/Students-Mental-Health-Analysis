@@ -51,5 +51,6 @@ After cleaning the data, the following steps were performed to create the dashbo
 
 ---
 
-By following these steps, the dataset was transformed into meaningful insights, as shown in the attached screenshot. ![Student Mental Health Dashboard](./dashboard/Students%20mental%20health%20dashboard%20screenshot.png)
+By following these steps, the dataset was transformed into meaningful insights, as shown in the attached screenshot.
+![students_mental_health_analysis_Dashboard](./dashboard/Students%20mental%20health%20dashboard%20screenshot.png)
 
