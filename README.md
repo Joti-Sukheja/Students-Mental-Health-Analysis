@@ -1,5 +1,5 @@
 # Students Mental Health Analysis Dashboard  
-🚀 A comprehensive analysis of students' mental health data visualized through an interactive and insightful Excel dashboard.
+ A comprehensive analysis of students' mental health data visualized through an interactive and insightful Excel dashboard.
 
 ---
 
@@ -44,7 +44,7 @@ This project analyzes students' mental health patterns based on survey data. The
 ### Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/Students-Mental-Health-Dashboard.git
+   git clone https://github.com/Joti-Sukheja/Students-Mental-Health-Dashboard.git
 
 2. Navigate to the `data/` folder to review the raw dataset.  
 3. Open the Excel file from the `dashboard/` folder to view the final dashboard.
@@ -107,5 +107,5 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 ---
 
 ## Connect  
-For questions or contributions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+For questions or contributions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joti-sukheja).
 
