@@ -23,7 +23,7 @@
 This project analyzes students' mental health patterns based on survey data. The findings are visualized in a well-designed Excel dashboard that highlights key metrics and trends, offering actionable insights for decision-makers.
 
 📊 **Live Dashboard Preview**  
-[View the Students Mental Health Dashboard](./dashboard/Students%20mental%20health%20dashboard%20screenshot.png)  
+![Students Mental Health Dashboard](dashboard/Students_health_dashboard.png)  
 
 ---
 
